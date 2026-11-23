@@ -61,7 +61,7 @@ A partida termina com derrota quando as 3 vidas acabam. Ao final, o jogador pode
 
  Dificuldade 1: Organizar o código em funções e módulos pequenos.
  Dificuldade 2: Fazer a colisão entre a cesta e os itens funcionar bem e equilibrar a dificuldade (velocidade e taxa de erro da IA).
- Dificuldade 3: Escrever testes para a lógica do jogo e usar o GitHub em grupo.
+ Dificuldade 3: Escrever testes para a lógica do jogo 
 
 ## 13. Escopo mínimo para a entrega final
 
